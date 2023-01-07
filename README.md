@@ -1,6 +1,6 @@
 # Web-Dev---2
 
-Description " 
+Description : 
 This is a simple CSS effect that adds a glowing animation to a text box, giving it the appearance of a tube light. It is a visually striking effect that can add some flair to your website or application.
 
 Features : 
